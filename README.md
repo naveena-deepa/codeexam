@@ -1,2 +1,0 @@
-# codeexam
-my first project
